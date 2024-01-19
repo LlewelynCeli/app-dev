@@ -1,2 +1,3 @@
-# app-dev
-My first repository.
+# The Pursuit of Happyness
+Pursuit of Happyness is a biographical drama film released in 2006, directed by Gabriele Muccino. The film is based on the true story of Chris Gardner, a struggling salesman who faces homelessness while trying to build a better life for himself and his young son. The story follows Chris Gardner, played by Will Smith, as he faces financial hardship and personal challenges. He invests his savings in a portable bone density scanner, hoping to make a living as a medical equipment salesman. Unfortunately, Gardner struggles to sell the scanners, leading to financial difficulties, eviction, and homelessness. Despite the hardships, Gardner remains determined to create a better life for himself and his son, Christopher, portrayed by Jaden Smith.
+
